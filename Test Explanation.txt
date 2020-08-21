@@ -1,0 +1,12 @@
+Explanation about the construction of the test.
+
+I tried to make it as simple as possible using DDD principals together with Single Responsability principle from SOLID.
+Along with the explanation I am also sending the project itself developed with .Net Core 3.1 at Visual Studio 2019.
+
+The API Controller (RiskController.cs at the Application folder) has a single endpoint expecting a json with the trade list. This layer only calls the next layer which is the Service layer, has this test does not require a database connection I did not designed a DDD's Infrastructure layer.
+
+The service layer (RiskService.cs at the Service folder) has a different method for each category rule so it will make possible to change, add, delete any rule without any impact to the other rules. It also have a method to validate according to the rule the possible result for each trade and finnaly a method to create the return message to the API layer.
+
+The Domain folder has the interfaces and Entities to deal with the data received from the API layer.
+
+Sure the project is quite simple and it does not have all the features a real project could have as dat validation for example, it is just  simple code made with the test completion in mind.

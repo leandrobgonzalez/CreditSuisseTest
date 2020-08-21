@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "fL2bj/oaTZALwPIiRpJLtzCwJIpriigeI5l1UIs14QAFQUNVCiCnZ88cW8w6NuekkCLK5tMoSgPK0g/7rCjxyw==",
+  "success": true,
+  "projectFilePath": "E:\\Repos\\CreditSuisseTest\\CreditSuisseTestApi\\CreditSuisseTestApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\fluentvalidation\\9.1.3\\fluentvalidation.9.1.3.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.1.3\\fluentvalidation.aspnetcore.9.1.3.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.1.3\\fluentvalidation.dependencyinjectionextensions.9.1.3.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\swashbuckle.aspnetcore\\5.5.1\\swashbuckle.aspnetcore.5.5.1.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.1\\swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

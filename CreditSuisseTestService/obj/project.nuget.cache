@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BFk3XcCYXxy+GmDfFVehvErHfUgiNtpxCO3dSXXo1bbe/vjt6EyM3w770QRkJM2WNXbVPymdWrebGVFZL0xYvg==",
+  "success": true,
+  "projectFilePath": "E:\\Repos\\CreditSuisseTest\\CreditSuisseTestService\\CreditSuisseTestService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\fluentvalidation\\9.1.3\\fluentvalidation.9.1.3.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.1.3\\fluentvalidation.aspnetcore.9.1.3.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.1.3\\fluentvalidation.dependencyinjectionextensions.9.1.3.nupkg.sha512",
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

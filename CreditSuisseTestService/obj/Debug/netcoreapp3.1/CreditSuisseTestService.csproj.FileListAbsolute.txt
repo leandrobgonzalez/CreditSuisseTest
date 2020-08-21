@@ -1,0 +1,12 @@
+E:\Repos\CreditSuisseTest\CreditSuisseTestService\bin\Debug\netcoreapp3.1\CreditSuisseTestService.deps.json
+E:\Repos\CreditSuisseTest\CreditSuisseTestService\bin\Debug\netcoreapp3.1\CreditSuisseTestService.dll
+E:\Repos\CreditSuisseTest\CreditSuisseTestService\bin\Debug\netcoreapp3.1\CreditSuisseTestService.pdb
+E:\Repos\CreditSuisseTest\CreditSuisseTestService\bin\Debug\netcoreapp3.1\CreditSuisseTestDomain.dll
+E:\Repos\CreditSuisseTest\CreditSuisseTestService\bin\Debug\netcoreapp3.1\CreditSuisseTestDomain.pdb
+E:\Repos\CreditSuisseTest\CreditSuisseTestService\obj\Debug\netcoreapp3.1\CreditSuisseTestService.csprojAssemblyReference.cache
+E:\Repos\CreditSuisseTest\CreditSuisseTestService\obj\Debug\netcoreapp3.1\CreditSuisseTestService.AssemblyInfoInputs.cache
+E:\Repos\CreditSuisseTest\CreditSuisseTestService\obj\Debug\netcoreapp3.1\CreditSuisseTestService.AssemblyInfo.cs
+E:\Repos\CreditSuisseTest\CreditSuisseTestService\obj\Debug\netcoreapp3.1\CreditSuisseTestService.csproj.CoreCompileInputs.cache
+E:\Repos\CreditSuisseTest\CreditSuisseTestService\obj\Debug\netcoreapp3.1\CreditSuisseTestService.csproj.CopyComplete
+E:\Repos\CreditSuisseTest\CreditSuisseTestService\obj\Debug\netcoreapp3.1\CreditSuisseTestService.dll
+E:\Repos\CreditSuisseTest\CreditSuisseTestService\obj\Debug\netcoreapp3.1\CreditSuisseTestService.pdb
